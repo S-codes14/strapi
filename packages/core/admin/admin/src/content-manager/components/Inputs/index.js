@@ -232,8 +232,6 @@ function Inputs({
         // ...fields,
         json: InputJSON,
         uid: InputUID,
-        // FIXME
-        datetime: ComingSoonInput,
         media: ComingSoonInput,
         wysiwyg: Wysiwyg,
       }}
